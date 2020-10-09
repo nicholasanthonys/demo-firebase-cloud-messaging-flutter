@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763789429934",
+    "firebase_url": "https://cobafcm-c894a.firebaseio.com",
+    "project_id": "cobafcm-c894a",
+    "storage_bucket": "cobafcm-c894a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763789429934:android:90bae11990d605816d713f",
+        "android_client_info": {
+          "package_name": "com.example.myfirstfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763789429934-868n1ni3l2gombicnccdruouno4ob6nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8l0KMMjvonJ_CwuWbU8marb0454YtB74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763789429934-868n1ni3l2gombicnccdruouno4ob6nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
